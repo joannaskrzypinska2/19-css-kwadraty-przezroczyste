@@ -1,0 +1,26 @@
+body {
+    background-color: #f5f5dd;
+}
+.example1 {
+    width: 120px;
+    height: 120px;
+    background-color: black;
+}
+.example2 {
+    width: 120px;
+    height: 120px;
+    background-color: black;
+    background-color: rgb(70,70,70);
+}
+.example3 {
+    width: 120px;
+    height: 120px;
+    background-color: black;
+    background-color: rgb(150,150,150);
+}
+.example4 {
+    width: 120px;
+    height: 120px;
+    background-color: black;
+    background-color: rgb(200,200,200);
+}
