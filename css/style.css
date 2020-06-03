@@ -5,22 +5,26 @@ body {
     width: 120px;
     height: 120px;
     background-color: black;
+    margin: auto;
 }
 .example2 {
     width: 120px;
     height: 120px;
     background-color: black;
-    background-color: rgb(70,70,70);
+    background-color: rgba(0, 0, 0, 0.8);
+    margin: auto;
 }
 .example3 {
     width: 120px;
     height: 120px;
     background-color: black;
-    background-color: rgb(150,150,150);
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: auto;
 }
 .example4 {
     width: 120px;
     height: 120px;
     background-color: black;
-    background-color: rgb(200,200,200);
+    background-color: rgba(0, 0, 0, 0.2);
+    margin: auto;
 }
